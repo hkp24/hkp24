@@ -1,4 +1,4 @@
-## 👋 Hi Iam hari krishna prasad 
+## 👋 Hi I'm Hari Krishna Prasad 
    
   ⚡ I'm an Electrical and Electronics Engineering (EEE) student driven by a deep passion for automation, circuit systems, and simulation technologies.
 
