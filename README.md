@@ -41,5 +41,4 @@
 - Projects involving electrical system design and automation  
 - Simulation-oriented tasks using MATLAB, PSCAD, or embedded platforms  
 - Short-term internships and group work focused on learning and innovation
--
 
